@@ -1,0 +1,62 @@
+{
+  "aggregate": {
+    "rating": 4.9,
+    "reviewCount": 1259,
+    "fiveStar": 1185,
+    "fourStar": 62,
+    "threeStar": 9,
+    "twoStar": 2,
+    "oneStar": 1
+  },
+  "reviews": [
+    {
+      "id": "rev_1790360028716",
+      "name": "Test User",
+      "rating": 5,
+      "date": "Just now",
+      "comment": "Awesome tool!"
+    },
+    {
+      "id": "rev_1",
+      "name": "Marcus L.",
+      "rating": 5,
+      "date": "2 hours ago",
+      "comment": "Saved my reels reposting workflow. The 1080p video quality is razor sharp without compression artifacts or watermarks."
+    },
+    {
+      "id": "rev_2",
+      "name": "Elena Rostova",
+      "rating": 5,
+      "date": "5 hours ago",
+      "comment": "Instant browser download without buffering on the server! MP3 320kbps extraction works flawlessly for Chinese BGM tracks."
+    },
+    {
+      "id": "rev_3",
+      "name": "KwaiCreator_99",
+      "rating": 5,
+      "date": "1 day ago",
+      "comment": "The batch download feature allowed me to grab 15 tutorials at once. Super clean interface and no intrusive ads."
+    },
+    {
+      "id": "rev_4",
+      "name": "David Chen",
+      "rating": 5,
+      "date": "2 days ago",
+      "comment": "Best Kwai video downloader out there. Handles short links from v.kuaishou.com seamlessly even with Chinese text copied."
+    },
+    {
+      "id": "rev_5",
+      "name": "Sarah Jenkins",
+      "rating": 5,
+      "date": "3 days ago",
+      "comment": "Super fast streaming response. The cover image JPEG downloader is also a huge plus for thumbnail design!"
+    },
+    {
+      "id": "rev_6",
+      "name": "Alex K.",
+      "rating": 4,
+      "date": "4 days ago",
+      "comment": "Very reliable tool. Download starts immediately in Chrome download manager as promised."
+    }
+  ]
+}

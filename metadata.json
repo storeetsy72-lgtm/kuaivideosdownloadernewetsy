@@ -1,0 +1,6 @@
+{
+  "name": "Kuaishou Video Downloader",
+  "description": "Fast, high-quality Kuaishou and Kwai video, MP3 audio, and cover downloader with HD 1080p support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
